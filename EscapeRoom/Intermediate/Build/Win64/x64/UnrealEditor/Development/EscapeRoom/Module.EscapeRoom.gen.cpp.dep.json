@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\arproject\\escaperoom\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\escaperoom\\module.escaperoom.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\arproject\\escaperoom\\intermediate\\build\\win64\\x64\\escaperoomeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\arproject\\escaperoom\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\escaperoom\\definitions.escaperoom.h",
+            "d:\\arproject\\escaperoom\\intermediate\\build\\win64\\unrealeditor\\inc\\escaperoom\\uht\\escaperoom.init.gen.cpp",
+            "d:\\arproject\\escaperoom\\intermediate\\build\\win64\\unrealeditor\\inc\\escaperoom\\uht\\rubikscubeactor.gen.cpp",
+            "d:\\arproject\\escaperoom\\source\\escaperoom\\public\\rubikscubeactor.h",
+            "d:\\arproject\\escaperoom\\intermediate\\build\\win64\\unrealeditor\\inc\\escaperoom\\uht\\rubikscubeactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

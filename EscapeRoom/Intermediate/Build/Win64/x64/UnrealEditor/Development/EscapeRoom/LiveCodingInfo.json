@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.EscapeRoom.gen.cpp.obj": [
+			"EscapeRoom.init.gen.cpp.obj",
+			"RubiksCubeActor.gen.cpp.obj"
+		]
+	}
+}

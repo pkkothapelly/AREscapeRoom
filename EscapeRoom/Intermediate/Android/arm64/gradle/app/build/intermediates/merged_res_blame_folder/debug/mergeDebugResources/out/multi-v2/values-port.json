@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.PK.ER.app-mergeDebugResources-27:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "Z:\\app\\src\\main\\res\\values-port\\styles.xml",
+                    "from": {
+                        "startLines": "3,12,14",
+                        "startColumns": "2,4,4",
+                        "startOffsets": "57,530,626",
+                        "endLines": "10,12,18",
+                        "endColumns": "9,92,12",
+                        "endOffsets": "522,618,893"
+                    },
+                    "to": {
+                        "startLines": "3,11,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "111,574,664",
+                        "endLines": "10,11,16",
+                        "endColumns": "9,89,12",
+                        "endOffsets": "569,659,925"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\home\\.gradle\\caches\\transforms-4\\4c38132d2a8931bb08c79ebaa613a6bf\\transformed\\appcompat-1.2.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

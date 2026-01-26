@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\EscapeRoom.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\EscapeRoom.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\EscapeRoomEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultDeviceProfiles.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{1797D593-7CC5-3812-9193-8AAD12A3DA98}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidGame.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Source\EscapeRoom">
+      <UniqueIdentifier>{FC670A30-B3C0-3703-BD3B-092026C76212}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\EscapeRoom\EscapeRoom.Build.cs">
+      <Filter>Source\EscapeRoom</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\EscapeRoom\EscapeRoom.cpp">
+      <Filter>Source\EscapeRoom</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EscapeRoom\EscapeRoom.h">
+      <Filter>Source\EscapeRoom</Filter>
+    </ClInclude>
+    <Filter Include="Source\EscapeRoom\Private">
+      <UniqueIdentifier>{A689A410-9DC2-32F7-A0F6-234AD2AFD5F0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\EscapeRoom\Private\RubiksCubeActor.cpp">
+      <Filter>Source\EscapeRoom\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\EscapeRoom\Public">
+      <UniqueIdentifier>{8A318059-C9C5-37F0-9B40-04F983684F1A}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\EscapeRoom\Public\RubiksCubeActor.h">
+      <Filter>Source\EscapeRoom\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

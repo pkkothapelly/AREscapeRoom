@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-EscapeRoom.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/ARProject/EscapeRoom/Intermediate/Build/Win64/x64/EscapeRoomEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"D:/ARProject/EscapeRoom/Intermediate/Build/Win64/x64/UnrealEditor/Development/EscapeRoom/Module.EscapeRoom.gen.cpp.obj"
+"D:/ARProject/EscapeRoom/Intermediate/Build/Win64/x64/UnrealEditor/Development/EscapeRoom/EscapeRoom.cpp.obj"
+"D:/ARProject/EscapeRoom/Intermediate/Build/Win64/x64/UnrealEditor/Development/EscapeRoom/RubiksCubeActor.cpp.obj"
+"D:/ARProject/EscapeRoom/Intermediate/Build/Win64/x64/UnrealEditor/Development/EscapeRoom/PerModuleInline.gen.cpp.obj"
+"D:/ARProject/EscapeRoom/Intermediate/Build/Win64/x64/UnrealEditor/Development/EscapeRoom/Default.rc2.res"
+/OUT:"D:/ARProject/EscapeRoom/Intermediate/Build/Win64/x64/UnrealEditor/Development/EscapeRoom/UnrealEditor-EscapeRoom.lib"

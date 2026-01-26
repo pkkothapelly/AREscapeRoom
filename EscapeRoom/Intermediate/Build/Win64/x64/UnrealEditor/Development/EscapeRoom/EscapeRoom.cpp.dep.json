@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\arproject\\escaperoom\\source\\escaperoom\\escaperoom.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\arproject\\escaperoom\\intermediate\\build\\win64\\x64\\escaperoomeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\arproject\\escaperoom\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\escaperoom\\definitions.escaperoom.h",
+            "d:\\arproject\\escaperoom\\source\\escaperoom\\escaperoom.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

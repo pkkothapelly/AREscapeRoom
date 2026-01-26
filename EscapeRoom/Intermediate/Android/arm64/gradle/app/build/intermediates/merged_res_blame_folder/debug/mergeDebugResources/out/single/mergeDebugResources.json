@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.PK.ER.app-debug-29:/drawable-ldpi_icon.png.flat",
+        "source": "com.PK.ER.app-main-31:/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "com.PK.ER.app-debug-29:/drawable-hdpi_notify_panel_notification_icon_bg.png.flat",
+        "source": "com.PK.ER.app-main-31:/drawable-hdpi/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.PK.ER.app-debug-29:/drawable-hdpi_icon.png.flat",
+        "source": "com.PK.ER.app-main-31:/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "com.PK.ER.app-debug-29:/drawable_splashscreen_p.xml.flat",
+        "source": "com.PK.ER.app-main-31:/drawable/splashscreen_p.xml"
+    },
+    {
+        "merged": "com.PK.ER.app-debug-29:/drawable_downloadimagev.png.flat",
+        "source": "com.PK.ER.app-main-31:/drawable/downloadimagev.png"
+    },
+    {
+        "merged": "com.PK.ER.app-debug-29:/drawable_icon.png.flat",
+        "source": "com.PK.ER.app-main-31:/drawable/icon.png"
+    },
+    {
+        "merged": "com.PK.ER.app-debug-29:/layout-port_downloader_progress.xml.flat",
+        "source": "com.PK.ER.app-main-31:/layout-port/downloader_progress.xml"
+    },
+    {
+        "merged": "com.PK.ER.app-debug-29:/drawable-xhdpi_icon.png.flat",
+        "source": "com.PK.ER.app-main-31:/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "com.PK.ER.app-debug-29:/anim_noaction.xml.flat",
+        "source": "com.PK.ER.app-main-31:/anim/noaction.xml"
+    },
+    {
+        "merged": "com.PK.ER.app-debug-29:/drawable_splashscreen_landscape.png.flat",
+        "source": "com.PK.ER.app-main-31:/drawable/splashscreen_landscape.png"
+    },
+    {
+        "merged": "com.PK.ER.app-debug-29:/drawable_splashscreen_portrait.png.flat",
+        "source": "com.PK.ER.app-main-31:/drawable/splashscreen_portrait.png"
+    },
+    {
+        "merged": "com.PK.ER.app-debug-29:/layout_downloader_progress.xml.flat",
+        "source": "com.PK.ER.app-main-31:/layout/downloader_progress.xml"
+    },
+    {
+        "merged": "com.PK.ER.app-debug-29:/layout_status_bar_ongoing_event_progress_bar.xml.flat",
+        "source": "com.PK.ER.app-main-31:/layout/status_bar_ongoing_event_progress_bar.xml"
+    },
+    {
+        "merged": "com.PK.ER.app-debug-29:/drawable_splashscreen_l.xml.flat",
+        "source": "com.PK.ER.app-main-31:/drawable/splashscreen_l.xml"
+    },
+    {
+        "merged": "com.PK.ER.app-debug-29:/drawable-mdpi_notify_panel_notification_icon_bg.png.flat",
+        "source": "com.PK.ER.app-main-31:/drawable-mdpi/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.PK.ER.app-debug-29:/drawable_downloadimageh.png.flat",
+        "source": "com.PK.ER.app-main-31:/drawable/downloadimageh.png"
+    },
+    {
+        "merged": "com.PK.ER.app-debug-29:/layout-land_downloader_progress.xml.flat",
+        "source": "com.PK.ER.app-main-31:/layout-land/downloader_progress.xml"
+    },
+    {
+        "merged": "com.PK.ER.app-debug-29:/drawable-mdpi_icon.png.flat",
+        "source": "com.PK.ER.app-main-31:/drawable-mdpi/icon.png"
+    }
+]

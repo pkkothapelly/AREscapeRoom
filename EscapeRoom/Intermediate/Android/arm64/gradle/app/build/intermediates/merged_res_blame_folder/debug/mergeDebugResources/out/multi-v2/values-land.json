@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.PK.ER.app-mergeDebugResources-27:/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "Z:\\app\\src\\main\\res\\values-land\\styles.xml",
+                    "from": {
+                        "startLines": "3,12,14",
+                        "startColumns": "1,4,4",
+                        "startOffsets": "56,529,625",
+                        "endLines": "10,12,18",
+                        "endColumns": "9,92,12",
+                        "endOffsets": "521,617,892"
+                    },
+                    "to": {
+                        "startLines": "5,13,14",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "264,727,817",
+                        "endLines": "12,13,18",
+                        "endColumns": "9,89,12",
+                        "endOffsets": "722,812,1078"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\home\\.gradle\\caches\\transforms-4\\4c38132d2a8931bb08c79ebaa613a6bf\\transformed\\appcompat-1.2.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}

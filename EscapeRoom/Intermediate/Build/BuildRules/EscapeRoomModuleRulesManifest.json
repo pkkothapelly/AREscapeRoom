@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\ARProject\\EscapeRoom\\Source\\EscapeRoom\\EscapeRoom.Build.cs",
+		"D:\\ARProject\\EscapeRoom\\Source\\EscapeRoom.Target.cs",
+		"D:\\ARProject\\EscapeRoom\\Source\\EscapeRoomEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

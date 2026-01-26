@@ -1,0 +1,7 @@
+Breadcrumbs 'Parallel'
+ - ParallelDraw (Index: 0, Num: 1)
+ - BasePass
+ - Scene
+ - RenderGraphExecute - /ViewFamilies
+ - SceneRender - ViewFamilies
+ - Frame 307789
